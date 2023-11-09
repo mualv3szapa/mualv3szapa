@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>AOOOOOBA MEU BOM🕺</h1>
+<h2>Faço desenvolvimento de sistemas no SENAI Paulo Skaf 😁</h2>
+<p>Esse GitHub está a maioria dos projetos feitos no curso</p>
+<p>
+  O que ja aprendi:
+    <p>-HTML</p>
+    <p>-CSS</p>
+    <p>-C#</p>
+    <p>-SQLserver</p>
+    <p>-JavaScript</p>
+</p>
 
-<!--
-**wolf-muuh/wolf-muuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Aqui estão algumas das minhas conquistas 👇👇👇</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+   <img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="350" title="hover text">
+</p>
+
+
