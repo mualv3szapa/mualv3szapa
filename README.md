@@ -1,6 +1,6 @@
 <h1>AOOOOOBA MEU BOM🕺</h1>
 <h2>Faço desenvolvimento de sistemas no SENAI Paulo Skaf 😁</h2>
-<p>Esse GitHub está a maioria dos projetos feitos no curso</p>
+<p>Esse GitHub está a maioria dos projetos feitos no curso além de alguns projetos pessoais meus</p>
 <p>
   O que ja aprendi:
     <p>-HTML</p>
