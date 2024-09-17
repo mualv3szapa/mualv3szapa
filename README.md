@@ -11,10 +11,20 @@
 ###
 
 <div align="left">
- <a href="https://www.linkedin.com/in/murilo-alves-zapiello-3763741b6/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  /> </a> 
+ <a href="https://www.linkedin.com/in/murilo-alves-zapiello-3763741b6/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  /> 
+ </a> 
+ <a href="https://www.instagram.com/_murilo.zapiello_/"> 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
+ </a>
+
+ <a href="+55 (11) 9 5337 4339">
+ <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="whatsapp logo"  />
+ </a>
+  <a href="murilo.zapiello@gmail.com">
+   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />  
+  </a>
+  
 </div>
 
 ###
