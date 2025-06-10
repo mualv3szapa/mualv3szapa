@@ -1,12 +1,7 @@
-<h1 align="left">Opa tudo bem?</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=47C0E1&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+My+name+is+Murilo+Alves+Zapiello;I'm+19+years+old;I'm+from+Brazil;IoT+developer...;...And+FullStack+developer;Be+Welcome:%29)](https://git.io/typing-svg)
 ###
 
-<p align="left">Sou técnico em desenvolvimento de sistemas pelo SENAI Paulo Antonio Skaf e técnico em automação industrial pela ETEC Julio de Mesquita</p>
-
-###
-
-<p align="left">Entre em contato comigo por aqui 👇👇👇</p>
+<p align="left">👀 Where you find me: </p>
 
 ###
 
@@ -21,24 +16,76 @@
 
 ###
 
-<h4 align="left">Algumas das técnologias que mais uso 👇👇👇</h4>
+<h4 font-size="25" align="left">⚙ My Technologies</h4>
+
+###
+
+<h5 font-size="22" align=left>🧩 IoT Development</h5>
+
+###
+
+<div align=left>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h4 align="left">🌐 Front-End Development</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40"/>
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40"/>
+</div>
+
+###
+
+<h4 align="left">🌐 Back-End Development</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40"/>
+  <img width="12" />
+  
+</div>
+
+###
+
+<h4 align="left">🎮 Game Development</h4>
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
+</div>
+
+###
+<h4 align="left">🎨 Game Design</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40"/>             
+</div>
+
+###
+<h4 align="left">🎨 Web Design</h4>
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40"/>
 </div>
 
 ###
