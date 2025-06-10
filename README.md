@@ -104,11 +104,3 @@
 
 
 ###
-
-<h3 align="left">Algumas das minhas conquistas 👇👇👇</h3>
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"  />
-
-###
